@@ -1,3 +1,6 @@
+// Firsdt of all, to show it on github contributions git username and emal should be right
+// Check git config user.name and git config user.email
+// Update if not right, git config user.name 'samrajyaes'git config user.email'sam.sgowda@gmail.com'
 // Bootstrapped with npm init after closing repo from remote
 // Then Create index.js file, used to make lot of commit for back dates
 // data.json and modify the data n commit(file changed had to added to git, all using code)
@@ -30,7 +33,7 @@ const makeCommit = n => {
     });
 }
 
-makeCommit(100);
+makeCommit(93);
 
 // To do git cadd n commit and make sure modify the date here
 // git commit --date="" and also make it back date
