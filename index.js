@@ -1,4 +1,4 @@
-// Firsdt of all, to show it on github contributions git username and emal should be right
+// First of all, to show it on github contributions git username and email should be right
 // Check git config user.name and git config user.email
 // Update if not right, git config user.name 'samrajyaes'git config user.email'sam.sgowda@gmail.com'
 // Bootstrapped with npm init after closing repo from remote
